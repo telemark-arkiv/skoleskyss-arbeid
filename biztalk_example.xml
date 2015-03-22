@@ -60,8 +60,8 @@
       <Documents>
         <!-- Custom: 0 is interal zone, 1 is secure zone -->
         <Document SecureZone="0">
-          <!-- Custom: Document will be delivered by SvarUt -->
-          <Delivery>SvarUt</Delivery>
+          <!-- Custom: Document will be delivered by SvarUt/Email/Folder -->
+          <Delivery method="SvarUt"></Delivery>
           <!-- Required -->
           <Title>Søknad om ordinær skoleskyss - 3322</Title>
           <!-- Use DocumentNumber only if you want to update document" -->
