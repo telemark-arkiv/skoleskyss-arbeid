@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Scheme name="skoleskyss" id="123">
-  <!-- Custom: 0 is interal zone, 1 is secure zone -->
-  <SecureZone>0</SecureZone>
   <!-- Contacts -->
   <Contacts>
     <Contact>
@@ -25,7 +23,8 @@
   </Contacts>
   <!-- Cases -->
   <Cases>
-    <Case>
+    <!-- Custom: 0 is interal zone, 1 is secure zone -->
+    <Case SecureZone="0">
       <!-- Custom: "Elevmappe" or "Skjema" -->
       <CaseType>Elevmappe</CaseType>
       <!-- Required -->
@@ -59,7 +58,8 @@
       <ScrapCode>B</ScrapCode>
       <!-- Documents -->
       <Documents>
-        <Document>
+        <!-- Custom: 0 is interal zone, 1 is secure zone -->
+        <Document SecureZone="0">
           <!-- Custom: Document will be delivered by SvarUt -->
           <Delivery>SvarUt</Delivery>
           <!-- Required -->
