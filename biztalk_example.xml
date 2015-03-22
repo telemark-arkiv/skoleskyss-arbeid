@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Scheme name="skoleskyss" id="123">
+  <!-- Custom: 0 is interal zone, 1 is secure zone -->
+  <SecureZone>0</SecureZone>
+  <!-- Contacts -->
+  <Contacts>
+    <Contact>
+      <!-- Required -->
+      <PersonalIdNumber>012345678910</PersonalIdNumber>
+      <!-- Required -->
+      <FirstName>Jonas</FirstName>
+      <MiddleName>Huseby</MiddleName>
+      <!-- Required -->
+      <LastName>Enge</LastName>
+      <!-- Støtte for flere adresser? -->
+      <Address>
+        <StreetAddress>Øvregate 1</StreetAddress>
+        <ZipCode>3714</ZipCode>
+        <ZipPlace>Skien</ZipPlace>
+        <Country>Norway</Country>
+        <County>Skien</County>
+        <Area>Telemark</Area>
+      </Address>
+    </Contact>
+  </Contacts>
+  <!-- Cases -->
+  <Cases>
+    <Case>
+      <!-- Custom: "Elevmappe" or "Skjema" -->
+      <CaseType>Elevmappe</CaseType>
+      <!-- Required -->
+      <Title>Søknad om ordinær skoleskyss - 3322</Title>
+      <!-- Use CaseNumber only if you want to update case -->
+      <CaseNumber/>
+      <StartDate/>
+      <Status>B</Status>
+      <ClosedDate/>
+      <JournalUnit>SentralArkiv</JournalUnit>
+      <SubArchive>Sakarkiv</SubArchive>
+      <ArchiveCodes>
+        <Sort/>
+        <ArchiveType>FAGKODE_PRINSIPP</ArchiveType>
+        <IsManuelText>0</IsManuelText>
+        <ArchiveCode>100</ArchiveCode>
+      </ArchiveCodes>
+      <FiledOnPaper>false</FiledOnPaper>
+      <Keywords>Skoleskyss</Keywords>
+      <AccessCode>U</AccessCode>
+      <Paragraph>OFL § 11</Paragraph>
+      <AccessGroup>RIM-elever</AccessGroup>
+      <Notes>Notater ..</Notes>
+      <ResponsiblePersonIdNumber>012345678910</ResponsiblePersonIdNumber>
+      <Contacts>
+        <ContactId>012345678910</ContactId>
+        <Role>Sakspart</Role>
+      </Contacts>
+      <ReferringCases/>
+      <Project>12</Project>
+      <ScrapCode>B</ScrapCode>
+      <!-- Documents -->
+      <Documents>
+        <Document>
+          <!-- Custom: Document will be delivered by SvarUt -->
+          <Delivery>SvarUt</Delivery>
+          <!-- Required -->
+          <Title>Søknad om ordinær skoleskyss - 3322</Title>
+          <!-- Use DocumentNumber only if you want to update document" -->
+          <DocumentNumber/>
+          <DocumentDate/>
+          <Archive>Saksdokument</Archive>
+          <!-- Required -->
+          <Category/>
+          <!-- Required -->
+          <Status/>
+          <CaseNumber/>
+          <ResponsiblePersonIdNumber/>
+          <Contacts>012345678910</Contacts>
+          <SendersReference/>
+          <Paragraph/>
+          <JournalDate/>
+          <DispatchedDate/>
+          <FiledOnPaper/>
+          <Keywords/>
+          <Notes/>
+          <ReferringCases/>
+          <ReferringDocuments/>
+          <!-- Files -->
+          <Files>
+            <File>
+              <!-- Custom: Filepath -->
+              <uri>\\tfk-fh-fil01\123.pdf</uri>
+              <!-- Required -->
+              <Title>Vedtak om skoleskyss - 3322</Title>
+              <Format>pdf</Format>
+              <Base64Data/>
+              <UploadedFileReference/>
+              <RelationType/>
+              <VersionFormat/>
+              <Note/>
+              <Category>Brev</Category>
+              <Status/>
+              <AccessCode/>
+              <DegradeCode/>
+              <DegradeDate/>
+              <FiledOnPaper/>
+              <PaperLocation/>
+            </File>
+          </Files>
+        </Document>
+      </Documents>
+    </Case>
+  </Cases>
+</Scheme>
