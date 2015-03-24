@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<eDocument xmlns="http://www.edocument.no">
+  <Meta>
+    <eDocumentInstanceID>58a41b26-7f8f-40a7-a398-6b81581be5d6</eDocumentInstanceID>
+    <eDocumentTemplateID>06bcfff2-ed73-4998-8290-01f42e7ef7f3</eDocumentTemplateID>
+    <FormID>Skoleskyss</FormID>
+    <Shortname>Skoleskyss</Shortname>
+    <eDocumentTemplateVersionID>9461366c-0480-4037-a6e2-f56dfe1122ac</eDocumentTemplateVersionID>
+    <eDocumentTemplateVersionNumber>63</eDocumentTemplateVersionNumber>
+    <eDocumentTemplateName>Søknad om skoleskyss</eDocumentTemplateName>
+    <ViewerUrl>http://selvbetjening.fifk.no/templates/XXX</ViewerUrl>
+    <eDocumentServerVersion>4.6.2-alpha02</eDocumentServerVersion>
+    <SubmittedOn iso8601="2015-03-02T10:38:32">02.03.2015 10:38:32</SubmittedOn>
+    <ReferenceNumber>HAZOPL</ReferenceNumber>
+    <EmailReceipt>ivto@ffk.no</EmailReceipt>
+  </Meta>
+  <Søknad_om_skoleskyss>
+    <Soknaden>
+      <Soknadstype selectedOption="Avstand" selectedOptionCaption="Avstand mellom bosted og nærmeste skole som gir rett til fri skoleskyss">
+        <Avstand value="true">true</Avstand>
+        <Handikap value="false">false</Handikap>
+        <Farlig_skolevei value="false">false</Farlig_skolevei>
+        <Kommunalt_vedtak value="false">false</Kommunalt_vedtak>
+        <Flytting value="false">false</Flytting>
+        <Foreldrerett value="false">false</Foreldrerett>
+        <Annet value="false">false</Annet>
+      </Soknadstype>
+    </Soknaden>
+    <Eleven>
+      <Logon_id />
+      <E_Fodselsnr>xxxxxxxxxxx</E_Fodselsnr>
+      <E_Fornavn noark4type="AM.FORNAVN">Navn</E_Fornavn>
+      <E_Etternavn noark4type="AM.ETTERNAVN">Etternavn</E_Etternavn>
+      <E_Postadresse noark4type="AM.ADRESSE">BOKS 6300, ETTERSTAD</E_Postadresse>
+      <Kommunenr>2003</Kommunenr>
+      <E_Postnr noark4type="AM.POSTNR">0603</E_Postnr>
+      <E_Poststed noark4type="AM.POSTSTED">OSLO</E_Poststed>
+      <Kommune>VADSØ</Kommune>
+      <E_epost noark4type="AM.EPOSTADR">ivto@ffk.no</E_epost>
+      <Adressevalg selectedOption="Hybeladresse" selectedOptionCaption="Eleven bor på hybeladresse (borteboer)">
+        <Hjemme value="false">false</Hjemme>
+        <Hybeladresse value="true">true</Hybeladresse>
+      </Adressevalg>
+      <Delt_omsorg selectedOptions="" selectedOptionCaptions="">
+        <Delt_omsorg_50.50 value="false">false</Delt_omsorg_50.50>
+      </Delt_omsorg>
+      <DSF_adrtype>M</DSF_adrtype>
+      <DSF_gnr>00020</DSF_gnr>
+      <DSF_bnr>0020</DSF_bnr>
+      <DSF_fnr />
+    </Eleven>
+    <Bosted>
+      <Adressetype1 selectedOption="Gateadresse" selectedOptionCaption="Gateadresse">
+        <Gateadresse value="true">true</Gateadresse>
+        <Matrikkeladresse value="false">false</Matrikkeladresse>
+      </Adressetype1>
+      <B_Gateadresse1 selectedOption="" selectedOptionCaption="HENRY KARLSENS PLASS 1, 9800 VADSØ">HENRY KARLSENS PLASS XXX, 9800 VADSØ</B_Gateadresse1>
+    </Bosted>
+    <Foresatt>
+      <F_fodselsnr />
+      <F_Fornavn />
+      <F_Etternavn />
+      <F_Postadresse />
+      <F_Postnr />
+      <F_Poststed />
+      <F_telefon />
+      <F_epost />
+    </Foresatt>
+    <Valg_av_skole>
+      <Kommunenavn>ALTA</Kommunenavn>
+      <Skoletype selectedOption="VGS" selectedOptionCaption="Videregående skole">
+        <Grunnskole value="false">false</Grunnskole>
+        <Privatskole value="false">false</Privatskole>
+        <VGS value="true">true</VGS>
+      </Skoletype>
+      <Skoleliste selectedOption="96" selectedOptionCaption="Vadsø VGS">
+        <_96 value="true">true</_96>
+      </Skoleliste>
+    </Valg_av_skole>
+    <Transportbehov>
+      <Transportbehov_ordinar selectedOptions="Buss;" selectedOptionCaptions="Buss;">
+        <Buss value="true">true</Buss>
+        <Hurtigbåt value="false">false</Hurtigbåt>
+        <Ferge value="false">false</Ferge>
+      </Transportbehov_ordinar>
+      <Varig_behov selectedOptions="" selectedOptionCaptions="">
+        <Midlertidig value="false">false</Midlertidig>
+      </Varig_behov>
+    </Transportbehov>
+    <Skyssbevis>
+      <Type_bevis selectedOption="Mobiltelefon" selectedOptionCaption="Skyssbevis på mobiltelefon (krever iPhone eller Android)">
+        <Mobiltelefon value="true">true</Mobiltelefon>
+        <Plastkort value="false">false</Plastkort>
+      </Type_bevis>
+      <Mobiltelefon>XXXX</Mobiltelefon>
+    </Skyssbevis>
+  </Søknad_om_skoleskyss>
+</eDocument>
