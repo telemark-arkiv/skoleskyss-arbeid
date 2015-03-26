@@ -4,13 +4,13 @@
         "id": 123,
         "Contacts": {
             "Contact": {
-                "PersonalIdNumber": 112345678910,
+                "PersonalIdNumber": "112345678910",
                 "FirstName": "Jonas",
                 "MiddleName": "Huseby",
                 "LastName": "Enge",
                 "Address": {
                     "StreetAddress": "Øvregate 1",
-                    "ZipCode": 3714,
+                    "ZipCode": "3714",
                     "ZipPlace": "Skien",
                     "Country": "Norway",
                     "County": "Skien",
@@ -31,8 +31,8 @@
                 "SubArchive": "Sakarkiv",
                 "ArchiveCodes": {
                     "ArchiveType": "FAGKODE_PRINSIPP",
-                    "IsManuelText": 0,
-                    "ArchiveCode": 100
+                    "IsManuelText": "0",
+                    "ArchiveCode": "100"
                 },
                 "FiledOnPaper": false,
                 "Keywords": "Skoleskyss",
@@ -40,13 +40,13 @@
                 "Paragraph": "OFL § 11",
                 "AccessGroup": "RIM-elever",
                 "Notes": "Notater ..",
-                "ResponsiblePersonIdNumber": 112345678910,
+                "ResponsiblePersonIdNumber": "112345678910",
                 "Contacts": {
-                    "ContactId": 112345678910,
+                    "ContactId": "112345678910",
                     "Role": "Sakspart"
                 },
                 "ReferringCases": null,
-                "Project": 12,
+                "Project": "12",
                 "ScrapCode": "B",
                 "Documents": {
                     "Document": {
@@ -61,7 +61,7 @@
                         "Status": null,
                         "CaseNumber": null,
                         "ResponsiblePersonIdNumber": null,
-                        "Contacts": 112345678910,
+                        "Contacts": "112345678910",
                         "SendersReference": null,
                         "Paragraph": null,
                         "JournalDate": null,
