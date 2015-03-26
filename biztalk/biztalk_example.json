@@ -55,9 +55,10 @@
                             "SvarUt" : true,
                             "360" : true,
                             "Folder" : false,
-                            "Email" : false
+                            "Email" : false,
+                            "Webservice" : false
                         },
-                        "DeliveryTo": "",
+                        "DeliveryTo": null,
                         "Title": "Søknad om ordinær skoleskyss - 3322",
                         "DocumentNumber": null,
                         "DocuemtnDate": null,
