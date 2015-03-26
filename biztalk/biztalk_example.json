@@ -51,7 +51,12 @@
                 "Documents": {
                     "Document": {
                         "SecureZone": false,
-                        "Delivery": "SvarUt",
+                        "Delivery": {
+                            "SvarUt" : true,
+                            "360" : true,
+                            "Folder" : false,
+                            "Email" : false
+                        },
                         "DeliveryTo": "",
                         "Title": "Søknad om ordinær skoleskyss - 3322",
                         "DocumentNumber": null,
