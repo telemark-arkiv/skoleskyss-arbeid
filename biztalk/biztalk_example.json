@@ -1,98 +1,98 @@
 {
-  "Scheme": {
-    "name": "skoleskyss",
-    "id": 123,
-    "Contacts": {
-      "Contact": {
-        "PersonalIdNumber": 012345678910,
-        "FirstName": "Jonas",
-        "MiddleName": "Huseby",
-        "LastName": "Enge",
-        "Address": {
-          "StreetAddress": "Øvregate 1",
-          "ZipCode": 3714,
-          "ZipPlace": "Skien",
-          "Country": "Norway",
-          "County": "Skien",
-          "Area": "Telemark"
-        }
-      }
-    },
-    "Cases": {
-      "Case": {
-        "SecureZone": false,
-        "Elevmappe": false,
-        "Title": "Søknad om ordinær skoleskyss - 3322",
-        "CaseNumber" : null,
-        "StartDate" : null,
-        "ClosedDate" : null,
-        "Status": "B",
-        "JournalUnit": "SentralArkiv",
-        "SubArchive": "Sakarkiv",
-        "ArchiveCodes": {
-          "ArchiveType": "FAGKODE_PRINSIPP",
-          "IsManuelText": 0,
-          "ArchiveCode": 100
-        },
-        "FiledOnPaper": false,
-        "Keywords": "Skoleskyss",
-        "AccessCode": "U",
-        "Paragraph": "OFL § 11",
-        "AccessGroup": "RIM-elever",
-        "Notes": "Notater ..",
-        "ResponsiblePersonIdNumber": 112345678910,
+    "Scheme": {
+        "name": "skoleskyss",
+        "id": 123,
         "Contacts": {
-          "ContactId": 112345678910,
-          "Role": "Sakspart"
-        },
-        "ReferringCases" : null,
-        "Project": 12,
-        "ScrapCode": "B",
-        "Documents": {
-          "Document": {
-            "SecureZone": false,
-            "Delivery": "SvarUt",
-            "DeliveryTo": "",
-            "Title": "Søknad om ordinær skoleskyss - 3322",
-            "DocumentNumber" : null,
-            "DocuemtnDate" : null,
-            "Archive" : "Saksdokument",
-            "Category" : null,
-            "Status" : null,
-            "CaseNumber" : null,
-            "ResponsiblePersonIdNumber" : null,
-            "Contacts": 112345678910,
-            "SendersReference" : null,
-            "Paragraph" : null,
-            "JournalDate" : null,
-            "DispatchedDate" : null,
-            "FiledOnPaper" : null,
-            "Keywords" : null,
-            "Notes" : null,
-            "ReferringCases" : null,
-            "ReferringDocuments" : null,
-            "Files": {
-              "File": {
-                "uri": "\\\\tfk-fh-fil01\\program\\Skjema\\123.pdf",
-                "Title": "Vedtak om skoleskyss - 3322",
-                "Format": "pdf",
-                "Base64Data" : null,
-                "UploadedFileReference" : null,
-                "RelationType" : null,
-                "VersionFormat" : null,
-                "Note" : null,
-                "Category" : "Brev"
-                "Status" : null,
-                "AccessCode" : null,
-                "DegradeCode" : null,
-                "DegradeDate" : null,
-                "FiledOnPaper" : null,
-                "PaperLocation" : null
-              }
+            "Contact": {
+                "PersonalIdNumber": 112345678910,
+                "FirstName": "Jonas",
+                "MiddleName": "Huseby",
+                "LastName": "Enge",
+                "Address": {
+                    "StreetAddress": "Øvregate 1",
+                    "ZipCode": 3714,
+                    "ZipPlace": "Skien",
+                    "Country": "Norway",
+                    "County": "Skien",
+                    "Area": "Telemark"
+                }
             }
-          }
+        },
+        "Cases": {
+            "Case": {
+                "SecureZone": false,
+                "Elevmappe": false,
+                "Title": "Søknad om ordinær skoleskyss - 3322",
+                "CaseNumber": null,
+                "StartDate": null,
+                "ClosedDate": null,
+                "Status": "B",
+                "JournalUnit": "SentralArkiv",
+                "SubArchive": "Sakarkiv",
+                "ArchiveCodes": {
+                    "ArchiveType": "FAGKODE_PRINSIPP",
+                    "IsManuelText": 0,
+                    "ArchiveCode": 100
+                },
+                "FiledOnPaper": false,
+                "Keywords": "Skoleskyss",
+                "AccessCode": "U",
+                "Paragraph": "OFL § 11",
+                "AccessGroup": "RIM-elever",
+                "Notes": "Notater ..",
+                "ResponsiblePersonIdNumber": 112345678910,
+                "Contacts": {
+                    "ContactId": 112345678910,
+                    "Role": "Sakspart"
+                },
+                "ReferringCases": null,
+                "Project": 12,
+                "ScrapCode": "B",
+                "Documents": {
+                    "Document": {
+                        "SecureZone": false,
+                        "Delivery": "SvarUt",
+                        "DeliveryTo": "",
+                        "Title": "Søknad om ordinær skoleskyss - 3322",
+                        "DocumentNumber": null,
+                        "DocuemtnDate": null,
+                        "Archive": "Saksdokument",
+                        "Category": null,
+                        "Status": null,
+                        "CaseNumber": null,
+                        "ResponsiblePersonIdNumber": null,
+                        "Contacts": 112345678910,
+                        "SendersReference": null,
+                        "Paragraph": null,
+                        "JournalDate": null,
+                        "DispatchedDate": null,
+                        "FiledOnPaper": null,
+                        "Keywords": null,
+                        "Notes": null,
+                        "ReferringCases": null,
+                        "ReferringDocuments": null,
+                        "Files": {
+                            "File": {
+                                "uri": "\\\\tfk-fh-fil01\\program\\Skjema\\123.pdf",
+                                "Title": "Vedtak om skoleskyss - 3322",
+                                "Format": "pdf",
+                                "Base64Data": null,
+                                "UploadedFileReference": null,
+                                "RelationType": null,
+                                "VersionFormat": null,
+                                "Note": null,
+                                "Category": "Brev",
+                                "Status": null,
+                                "AccessCode": null,
+                                "DegradeCode": null,
+                                "DegradeDate": null,
+                                "FiledOnPaper": null,
+                                "PaperLocation": null
+                            }
+                        }
+                    }
+                }
+            }
         }
-      }
     }
-  }
 }
