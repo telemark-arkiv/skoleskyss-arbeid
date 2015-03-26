@@ -20,7 +20,7 @@
     },
     "Cases": {
       "Case": {
-        "SecureZone": "0",
+        "SecureZone": false,
         "CaseType": "Elevmappe",
         "Title": "Søknad om ordinær skoleskyss - 3322",
         "Status": "B",
@@ -46,7 +46,7 @@
         "ScrapCode": "B",
         "Documents": {
           "Document": {
-            "SecureZone": "0",
+            "SecureZone": false,
             "Delivery": "SvarUt",
             "DeliveryTo": "",
             "Title": "Søknad om ordinær skoleskyss - 3322",
@@ -54,7 +54,7 @@
             "Contacts": "012345678910",
             "Files": {
               "File": {
-                "uri": "\\\\tfk-fh-fil01\\123.pdf",
+                "uri": "\\\\tfk-fh-fil01\\program\\Skjema\\123.pdf",
                 "Title": "Vedtak om skoleskyss - 3322",
                 "Format": "pdf",
                 "Category": "Brev"
