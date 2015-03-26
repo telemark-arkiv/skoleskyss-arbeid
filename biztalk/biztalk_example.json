@@ -73,7 +73,7 @@
                         "ReferringDocuments": null,
                         "Files": {
                             "File": {
-                                "uri": "\\\\tfk-fh-fil01\\program\\Skjema\\123.pdf",
+                                "Url": "\\\\tfk-fh-fil01\\program\\Skjema\\123.pdf",
                                 "Title": "Vedtak om skoleskyss - 3322",
                                 "Format": "pdf",
                                 "Base64Data": null,
