@@ -4,7 +4,7 @@ Det er utviklet en rekke moduler i forbindelse med skoleskyss. Alle er gjort und
 
 Modulene er selvstendige og kan byttes ut med andre så sant de kommuniserer via samme API.
 
-Beskrivelse og eventuelle tillegskrav ligger på hver enkelt modul.
+Beskrivelse og eventuelle tilleggskrav ligger på hver enkelt modul.
 
 ## Søknadskjema
 Alle moduler som brukes til søknadsskjemaet
