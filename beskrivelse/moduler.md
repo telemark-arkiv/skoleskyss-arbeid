@@ -46,11 +46,9 @@ Moduler som ble utviklet undervegs, men som ikke ble benyttet til slutt
 - [tfk-api-schools](https://github.com/zrrrzzt/tfk-api-schools) - Skoler i Telemark, geokodet
 
 ## PoC moduler
-Proof of concept moduler som ble laget i starten
+Proof of concept moduler er laget for å teste muligheter
 
 - [poc-skoleskyss-avstand](https://github.com/zrrrzzt/poc-skoleskyss-avstand) - beregne avstand
 - [poc-map-render](https://github.com/zrrrzzt/poc-map-render) - skjermbilde av kart
-
-
-
-
+- [tfk-api-unoconv] (https://github.com/zrrrzzt/tfk-api-unoconv) - unoconv som webservice
+- [docker-unoconv-webservice](https://github.com/zrrrzzt/docker-unoconv-webservice) - dockerimage for tfk-api-unoconv
