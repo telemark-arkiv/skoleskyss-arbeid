@@ -5,8 +5,8 @@ Her ligger en del filer og dokumenter fra forarbeidet og beskrivelse av den ferd
 
 ## Innhold
 
-- [Løsningsbeskrivelse](losning.md)
+- [Løsningsbeskrivelse](beskrivelse/losning.md)
 
-- [Teknisk oppsett](oppsett.md)
+- [Teknisk oppsett](beskrivelse/oppsett.md)
 
-- [Moduloversikt](moduler.md)
+- [Moduloversikt](beskrivelse/moduler.md)
