@@ -12,4 +12,4 @@ Her ligger en del filer og dokumenter fra forarbeidet og beskrivelse av den ferd
 - [Moduloversikt](beskrivelse/moduler.md)
 
 ## Versjoner
-- [Versonj 1.5](versjoner/1.5.md)
+- [Versjon 1.5](versjoner/1.5.md)
