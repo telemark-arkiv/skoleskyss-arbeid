@@ -10,3 +10,6 @@ Her ligger en del filer og dokumenter fra forarbeidet og beskrivelse av den ferd
 - [Teknisk oppsett](beskrivelse/oppsett.md)
 
 - [Moduloversikt](beskrivelse/moduler.md)
+
+## Versjoner
+- [Versonj 1.5](versjoner/1.5.md)
