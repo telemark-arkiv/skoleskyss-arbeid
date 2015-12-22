@@ -23,9 +23,9 @@ Alle moduler som brukes til saksbehandling
 - [tfk-dsf](https://github.com/telemark/dsf) - oppslag DSF
 - [tfk-utils-fix-address-for-seeiendom](https://github.com/telemark/tfk-utils-fix-address-for-seeiendom) - formattere adresser for seeiendom
 - [seeiendom](https://github.com/zrrrzzt/seeiendom) - oppslag Seeiendom
-- [tfk-saksbehandling-skoleskyss-nsb]() - filter
-- [tfk-saksbehandling-skoleskyss-tbr]() - filter
-- [tfk-saksbehandling-skoleskyss-fara]() - filter
+- [tfk-saksbehandling-skoleskyss-nsb](https://github.com/telemark/tfk-saksbehandling-skoleskyss-nsb) - filter
+- [tfk-saksbehandling-skoleskyss-tbr](https://github.com/telemark/tfk-saksbehandling-skoleskyss-tbr) - filter
+- [tfk-saksbehandling-skoleskyss-fara](https://github.com/telemark/tfk-saksbehandling-skoleskyss-fara) - filter
 - [tfk-api-distance](https://github.com/zrrrzzt/tfk-api-distance) - Beregning av avstand
 
 ## Ekspedering
