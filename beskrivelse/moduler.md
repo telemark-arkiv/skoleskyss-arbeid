@@ -21,6 +21,7 @@ Alle moduler som brukes til saksbehandling
 - [tfk-saksbehandling](https://github.com/telemark/tfk-saksbehandling) - rammeverk
 - [tfk-saksbehandling-skoleskyss](https://github.com/telemark/tfk-saksbehandling-skoleskyss) - plugin
 - [tfk-dsf](https://github.com/telemark/dsf) - oppslag DSF
+- [tfk-utils-fix-address-for-seeiendom](https://github.com/telemark/tfk-utils-fix-address-for-seeiendom) - formattere adresser for seeiendom
 - [seeiendom](https://github.com/zrrrzzt/seeiendom) - oppslag Seeiendom
 - [tfk-saksbehandling-skoleskyss-nsb]() - filter
 - [tfk-saksbehandling-skoleskyss-tbr]() - filter
